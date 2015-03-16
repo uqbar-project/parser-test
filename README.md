@@ -1,4 +1,4 @@
-Parser Test
+Parser Test [![Build Status](https://travis-ci.org/uqbar-project/parser-test.svg?branch=master)](https://travis-ci.org/uqbar-project/parser-test)
 ===========
 
 [Scalatest](http://www.scalatest.org/) extension to test parsers made with [Scala Standard Parser Combinator Library](https://github.com/scala/scala-parser-combinators).
