@@ -6,11 +6,9 @@ Parser Test [![Build Status](https://travis-ci.org/uqbar-project/parser-test.svg
 Setup
 -----
 
-To include this plugin in your *SBT* project, just add the following lines to your `.sbt` project definition:
+To include this module in your *SBT* project, just add the following line to your `.sbt` project definition:
 
 ```scala
-resolvers += "Uqbar Central" at "http://uqbar-wiki.org/mvn/releases"
-
 libraryDependencies += "org.uqbar" %% "parser-test" % "latest.integration" % "test"
 ```
 
